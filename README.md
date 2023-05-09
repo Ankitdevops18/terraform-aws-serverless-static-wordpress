@@ -4,6 +4,10 @@
 [![Test Suite](https://github.com/techtospeech/terraform-aws-serverless-static-wordpress/workflows/test-suite-master/badge.svg?branch=master&event=push)](https://github.com/techtospeech/terraform-aws-serverless-static-wordpress/actions/workflows/testsuite-master.yaml?query=branch%3Amaster+event%3Apush+workflow%3Atest-suite)
 <a href="https://twitter.com/intent/follow?screen_name=TechToSpeech"><img src="https://img.shields.io/twitter/follow/TechToSpeech?style=social&logo=twitter" alt="follow on Twitter"></a>
 
+## Reference 
+
+https://dev.to/aws-builders/serverless-static-wordpress-on-aws-for-0-01-a-day-1b29
+
 ## Introduction
 
 Serverless Static Wordpress is a Community Terraform Module from TechToSpeech that needs nothing more than a registered
